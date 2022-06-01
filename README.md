@@ -184,7 +184,7 @@ plt.show()
 # 7.Boxplot
 ![image](https://user-images.githubusercontent.com/94505585/171421342-17c36957-0632-4288-8a32-9ee65b9b3b39.png)
 ### RESULT:
-Hence,Data Visualization is applied on the complex dataset using libraries like Seaborn and Matplotlib successfully and the data is saved to file.
+Hence, Data Visualization is applied on the complex dataset using libraries like Seaborn and Matplotlib successfully and the data is saved to file.
 
 
 
