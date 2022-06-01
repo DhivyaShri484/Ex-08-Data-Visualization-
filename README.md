@@ -17,6 +17,7 @@ Apply Feature generation and selection techniques to all the features of the dat
 Apply data visualization techniques to identify the patterns of the data.
 
 ### CODE
+```
 #Reading the given dataset
 
 import pandas as pd
@@ -136,7 +137,7 @@ plt.show()
 
 plt.boxplot(x="Sales",data=df)
 plt.show()
-
+```
 ### OUPUT
 # Reading the given dataset
 ![image](https://user-images.githubusercontent.com/94505585/171418057-04d07768-2c22-4ede-a470-3c093b0be289.png)
